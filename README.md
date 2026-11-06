@@ -9,7 +9,7 @@ Install the development version from GitHub:
 
 ```r
 install.packages("remotes")
-remotes::install_github("YOUR_USERNAME/aggBias")
+remotes::install_github("HamidBekamiri/aggBias")
 ```
 
 Load the package:
