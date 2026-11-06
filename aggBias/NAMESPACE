@@ -1,0 +1,8 @@
+export(io_model)
+export(make_G)
+export(aggregate_io)
+export(bias_matrix)
+export(expected_bias)
+export(bias_share)
+export(optimize_aggregation)
+export(aggregation_frontier)
